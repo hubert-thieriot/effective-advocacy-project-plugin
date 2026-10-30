@@ -43,7 +43,7 @@ one of EAP's assessments is right or wrong).
 ## Example questions
 
 - "Who in the National Assembly votes with the campaign?"
-- "What has L214 said since September?"
+- "What has the agriculture minister said since September?"
 - "Which amendments deal with transition periods?"
 
 This repository is generated from the EAP code base for each release.
