@@ -37,7 +37,7 @@ one of EAP's assessments is right or wrong).
 
 - Privacy policy: <https://app.effectiveadvocacyproject.org/privacy>
 - Terms: <https://app.effectiveadvocacyproject.org/terms>
-- Setup help: <https://app.effectiveadvocacyproject.org/connect>
+- Help: <https://app.effectiveadvocacyproject.org/help/claude>
 - Contact: info@effectiveadvocacyproject.org
 
 ## Example questions

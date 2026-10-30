@@ -1,13 +1,13 @@
 {
   "name": "effective-advocacy-project",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Explore your EAP campaigns: actors, what they said, and how parliamentarians vote.",
   "author": {
     "name": "Effective Advocacy Project",
     "email": "info@effectiveadvocacyproject.org",
     "url": "https://effectiveadvocacyproject.org"
   },
-  "homepage": "https://app.effectiveadvocacyproject.org/connect",
+  "homepage": "https://app.effectiveadvocacyproject.org/help/claude",
   "repository": "https://github.com/hubert-thieriot/effective-advocacy-project-plugin",
   "license": "Proprietary",
   "keywords": [
@@ -20,5 +20,7 @@
   "displayName": "Effective Advocacy Project",
   "icon": "./assets/icon.png",
   "privacyPolicyUrl": "https://app.effectiveadvocacyproject.org/privacy",
-  "termsOfServiceUrl": "https://app.effectiveadvocacyproject.org/terms"
+  "termsOfServiceUrl": "https://app.effectiveadvocacyproject.org/terms",
+  "documentationUrl": "https://app.effectiveadvocacyproject.org/help/claude",
+  "supportUrl": "mailto:info@effectiveadvocacyproject.org"
 }
